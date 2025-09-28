@@ -14,7 +14,7 @@ I build **scalable, user-friendly apps** with a focus on **clean architecture, A
 ## 🛠️ Skills
 - **Languages & Frameworks:** Flutter, Dart, Kotlin, React Native, Node.js  
 - **Mobile Development:** Cross-platform apps (iOS & Android), Firebase, API Integration  
-- **Architecture & State Management:** Provider, Bloc, Retrofit  
+- **Architecture & State Management:** Provider, Bloc, Riverpod, Retrofit  
 - **Tools:** Android Studio, Xcode, Git (SourceTree), Postman, CI/CD  
 - **Other:** Automated Testing, Performance Optimization, Agile  
 
@@ -53,7 +53,7 @@ Cross-platform chat app (iOS, Android, Windows) with:
 - 📧 Email: **naingwinhtun.iam@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iamnaingwinhtun/)  
 - 💻 [GitHub](https://github.com/naingwinhtundev)  
-- 📱 WhatsApp: **+65 9433 0096**  
+- 📱 WhatsApp: **+84 346057951**  
 
 ---
 
